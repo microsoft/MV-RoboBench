@@ -1,33 +1,43 @@
-# Project
+# Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[ZhiYuan Feng](https://aaronfengzy.github.io/)¹*, Zhaolu Kang²*, Qijie Wang¹*, Zhiying Du³*, Jiongrui Yan⁴, Shi Shubin⁴, Chengbo Yuan¹, Huizhi Liang¹, Yu Deng⁵, Qixiu Li¹, Rushuai Yang⁶, Ruichuan An², Leqi Zheng¹, Weijie Wang⁷, Shawn Chen⁷, Sicheng Xu⁵, Yaobo Liang⁵, Jiaolong Yang⁵†, Baining Guo⁵
 
-As the maintainer of this project, please make a few updates:
+<br>
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+*¹Tsinghua University, ²Peking University, ³Fudan University, ⁴Jilin University, ⁵Microsoft Research Asia, ⁶Hong Kong University of Science and Technology, ⁷Zhejiang University*
 
-## Contributing
+*(\*Equal Contribution, †Corresponding Author)*
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
+-----
+<p align="center">
+  <a href='https://github.com/AaronFengZY/MV-RoboBench'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://github.com/AaronFengZY/MV-RoboBench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a>
+</p>
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## 🎉 News
+- [x] [2025.10] 📢📢 Paper and initial project release.
 
-## Trademarks
+## 📝 To-Do List
+- [ ] Release Evaluation Code
+- [ ] Release the benchmark dataset on HuggingFace
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## MV-RoboBench
+<p align="center" width="100%">
+<a target="_blank"><img src="./figures/data_pipeline.jpg" alt="Data Pipeline" style="width: 90%; min-width: 200px; display: block; margin: auto;"></a>
+</p>
+
+**Benchmark Overview:** We introduce *MV-RoboBench*, a benchmark designed to evaluate the multi-view spatial reasoning capabilities of VLMs in robotic scenes. It contains **[Number]** question-answer pairs across **[Number]** diverse robotic scenes. The benchmark comprises **[Number]** challenging tasks, such as **[Task 1 Name]**, **[Task 2 Name]**, and **[Task 3 Name]**. These tasks are designed to probe various aspects of 3D scene understanding, from establishing object correspondences to understanding relative spatial poses.
+
+<p align="center" width="100%">
+<a target="_blank"><img src="./figures/example.jpg" alt="Benchmark Examples" style="width: 90%; min-width: 200px; display: block; margin: auto;"></a>
+</p>
+
+📌 **A Benchmark for Robotic Scenes:** We introduce *MV-RoboBench*, a comprehensive benchmark designed to evaluate the spatial reasoning of Vision-Language Models in robotic scenes.
+
+📊 **Comprehensive Evaluation:** We evaluate [Number] state-of-the-art VLMs, including models like GPT-4o and Claude 3, revealing a significant performance gap compared to human-level reasoning.
+
+🔍 **Revealing Core Challenges:** Our analysis pinpoints key failure modes for current models in robotic scene understanding, particularly in cross-view correspondence, relative pose estimation, and action planning.
+
+## Contact
+
+For any questions or suggestions, please feel free to contact [Zhiyuan Feng](mailto:t-zhifeng@microsoft.com) or another author.
