@@ -10,16 +10,17 @@
 
 -----
 <p align="center">
-  <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://github.com/AaronFengZY/MV-RoboBench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a>
+  <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://huggingface.co/datasets/AaronFengZY24/MV_Robobench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a>
 </p>
 
 
 ## 🎉 News
 - [x] [2025.10] 📢📢 Paper and initial project release.
+- [x] [2026.01] 📦 Benchmark dataset released on [Hugging Face](https://huggingface.co/datasets/AaronFengZY24/MV_Robobench).
 
 ## 📝 To-Do List
 - [ ] Release Evaluation Code
-- [ ] Release the benchmark dataset on HuggingFace
+- [x] Release the benchmark dataset on [Hugging Face](https://huggingface.co/datasets/AaronFengZY24/MV_Robobench)
 
 ## MV-RoboBench
 <p align="center" width="100%">
