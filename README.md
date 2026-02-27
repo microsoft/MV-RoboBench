@@ -10,7 +10,7 @@
 
 -----
 <p align="center">
-  <a href='https://github.com/AaronFengZY/MV-RoboBench'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://github.com/AaronFengZY/MV-RoboBench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a>
+  <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://github.com/AaronFengZY/MV-RoboBench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a>
 </p>
 
 
