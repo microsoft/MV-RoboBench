@@ -1,5 +1,9 @@
 # Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes
 
+<p align="center">
+  <strong><font size="5">🔥🔥🔥 ICLR 2026 Accepted 🔥🔥🔥</font></strong>
+</p>
+
 [ZhiYuan Feng](https://aaronfengzy.github.io/)¹*, Zhaolu Kang²*, Qijie Wang¹*, Zhiying Du³*, Jiongrui Yan⁴, Shi Shubin⁴, Chengbo Yuan¹, Huizhi Liang¹, Yu Deng⁵, Qixiu Li¹, Rushuai Yang⁶, Ruichuan An², Leqi Zheng¹, Weijie Wang⁷, Shawn Chen⁷, Sicheng Xu⁵, Yaobo Liang⁵, Jiaolong Yang⁵†, Baining Guo⁵
 
 <br>
@@ -10,13 +14,14 @@
 
 -----
 <p align="center">
-  <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://huggingface.co/datasets/AaronFengZY24/MV_Robobench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a>
+  <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2510.19400'><img src='https://img.shields.io/badge/Arxiv-Page-purple'></a> <a href="https://huggingface.co/datasets/AaronFengZY24/MV_Robobench"><img src='https://img.shields.io/badge/Data-HuggingFace-red'></a> <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/%F0%9F%94%A5-Hot-orange'></a> <a href='https://AaronFengZY.github.io/MV-RoboBench-Webpage/'><img src='https://img.shields.io/badge/%F0%9F%9A%80-Trending-ff69b4'></a>
 </p>
 
 
 ## 🎉 News
 - [x] [2025.10] 📢📢 Paper and initial project release.
 - [x] [2026.01] 📦 Benchmark dataset released on [Hugging Face](https://huggingface.co/datasets/AaronFengZY24/MV_Robobench).
+- [x] [2026.01] 🎉🎉 Paper accepted to **ICLR 2026**.
 
 ## 📝 To-Do List
 - [ ] Release Evaluation Code
