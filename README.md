@@ -22,9 +22,10 @@
 - [x] [2025.10] 📢📢 Paper and initial project release.
 - [x] [2026.01] 📦 Benchmark dataset released on [Hugging Face](https://huggingface.co/datasets/AaronFengZY24/MV_Robobench).
 - [x] [2026.01] 🎉🎉 Paper accepted to **ICLR 2026**.
+- [x] [2026.03] 🛠️ Evaluation code released (see the [`evaluation`](../../tree/evaluation) branch).
 
 ## 📝 To-Do List
-- [ ] Release Evaluation Code
+- [x] Release Evaluation Code (see the [`evaluation`](../../tree/evaluation) branch)
 - [x] Release the benchmark dataset on [Hugging Face](https://huggingface.co/datasets/AaronFengZY24/MV_Robobench)
 
 ## MV-RoboBench
